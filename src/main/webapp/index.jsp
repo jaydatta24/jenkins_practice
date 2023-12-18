@@ -10,6 +10,8 @@
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
+  <h5> fOCUS On YOUR gOALS </h5>
+
   <p> All the best my dear DevOps Engineers... #JD</p>
 
   <p> DevOps is The Future..!! I will get job in 30 DAYS </p>
