@@ -10,7 +10,7 @@
   
   <h1> Learn Here.. Lead Anywhere..!! </h1>
 
-  <h5> fOCUS On YOUR gOALS </h5>
+  <h2> Focus on Your Goals </h2>
 
   <p> All the best my dear DevOps Engineers... #JD</p>
 
