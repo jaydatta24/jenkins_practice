@@ -1,20 +1,15 @@
 <html>
 <body>
-<h1><font color='purple'> Welcome to JAYDATTA IT - Software Training Institute <font></h1>
+<h1><font color='red'>Welcome to Ashok IT - Software Training Institute <font></h1>
+<h2>Learn Here.. Lead Anywhere..!! </h2>
+
+<p>Ashok IT is a leading Indian IT training institute preparing tech-aspirants for flourishing careers in this challenging and competitive domain since 2020. We offer flexible online training options that allow our students to study conveniently and progress on their preferred pace. Teaching at Ashok IT is supported by years of extensive academic and industry experience, innovative teaching methodologies, and high-quality educational resources.</p>
+
+<p> Contact : +91- 6301921083<p>
+
+<a href="https://wa.me/+919985396677">Send Whatsapp Message To Ashok IT Admin Team For More Info......<a> <br/> <br/>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
-  
-  <h2> Call Us : + 91 - 99 85 39 66 77 / 7038387419 </h2>
-  
-  <h3> office Location : Marine Drive, Mumbai </h3>
-  
-  <h1> Learn Here.. Lead Anywhere...!! </h1>
-
-  <h2> Focus on Your Goals </h2>
-
-  <p> All the best my dear DevOps Engineers... #JD</p>
-
-  <p> DevOps is The Future..!! I will get job in 30 DAYS </p>
 
 </body>
 </html>
