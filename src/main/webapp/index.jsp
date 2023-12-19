@@ -8,7 +8,7 @@
   
   <h3> office Location : Marine Drive, Mumbai </h3>
   
-  <h1> Learn Here.. Lead Anywhere..!! </h1>
+  <h1> Learn Here.. Lead Anywhere...!! </h1>
 
   <h2> Focus on Your Goals </h2>
 
